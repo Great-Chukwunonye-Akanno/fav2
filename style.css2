@@ -1,0 +1,25 @@
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+.links {
+    float: left;
+    color: #fff;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family:fantasy;
+    font-size: 20px
+}
+.links:hover {
+    background-color:dodgerblue;
+}
+#myname{
+    font-family: 'Note sans JP',cursive;
+}
